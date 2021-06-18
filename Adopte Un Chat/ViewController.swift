@@ -35,7 +35,7 @@ class ViewController: UIViewController {
         containerSetup()
         catImageSetup()
         setupCat()
-    }
+    } 
     
     func roundedLogo () {
         let cat = cats[index]
