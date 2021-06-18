@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		982ED5E725C17B9100236FF1 /* Cat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 982ED5E625C17B9100236FF1 /* Cat.swift */; };
 		98ED906325BF609300BE3A35 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98ED906225BF609300BE3A35 /* AppDelegate.swift */; };
 		98ED906525BF609300BE3A35 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98ED906425BF609300BE3A35 /* SceneDelegate.swift */; };
 		98ED906725BF609300BE3A35 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98ED906625BF609300BE3A35 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		982ED5E625C17B9100236FF1 /* Cat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat.swift; sourceTree = "<group>"; };
 		98ED905F25BF609200BE3A35 /* Adopte Un Chat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Adopte Un Chat.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		98ED906225BF609300BE3A35 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		98ED906425BF609300BE3A35 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				98ED906B25BF609300BE3A35 /* Assets.xcassets */,
 				98ED906D25BF609300BE3A35 /* LaunchScreen.storyboard */,
 				98ED907025BF609300BE3A35 /* Info.plist */,
+				982ED5E625C17B9100236FF1 /* Cat.swift */,
 			);
 			path = "Adopte Un Chat";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				982ED5E725C17B9100236FF1 /* Cat.swift in Sources */,
 				98ED906725BF609300BE3A35 /* ViewController.swift in Sources */,
 				98ED906325BF609300BE3A35 /* AppDelegate.swift in Sources */,
 				98ED906525BF609300BE3A35 /* SceneDelegate.swift in Sources */,
