@@ -35,8 +35,8 @@ class ViewController: UIViewController {
         containerSetup()
         catImageSetup()
         setupCat()
-    } 
-    
+    }
+     
     func roundedLogo () {
         let cat = cats[index]
         logo.layer.cornerRadius = logo.frame.width / 2
